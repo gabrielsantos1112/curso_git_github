@@ -1,2 +1,0 @@
-Testando no novo repositório.
-e agora o comando GIT LOG para verificar alterações realizadas.
