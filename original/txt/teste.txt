@@ -1,2 +1,0 @@
-Testando Repositório 1.
-Com o Git LOG, eu posso ver o histórico de commits realizados.
